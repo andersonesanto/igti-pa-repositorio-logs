@@ -1,0 +1,1 @@
+MSCK REPAIR TABLE coleta_logs.logs_data;
